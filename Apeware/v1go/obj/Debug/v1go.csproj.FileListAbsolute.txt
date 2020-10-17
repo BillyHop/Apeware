@@ -1,0 +1,16 @@
+C:\Users\xxint\Desktop\AIMWARE-master\v1go\bin\Debug\v1go.exe.config
+C:\Users\xxint\Desktop\AIMWARE-master\v1go\bin\Debug\v1go.exe
+C:\Users\xxint\Desktop\AIMWARE-master\v1go\bin\Debug\v1go.pdb
+C:\Users\xxint\Desktop\AIMWARE-master\v1go\obj\Debug\v1go.WaitForGame.resources
+C:\Users\xxint\Desktop\AIMWARE-master\v1go\obj\Debug\v1go.Loader.resources
+C:\Users\xxint\Desktop\AIMWARE-master\v1go\obj\Debug\v1go.Login.resources
+C:\Users\xxint\Desktop\AIMWARE-master\v1go\obj\Debug\v1go.PleaseWait.resources
+C:\Users\xxint\Desktop\AIMWARE-master\v1go\obj\Debug\v1go.AuthLoad.resources
+C:\Users\xxint\Desktop\AIMWARE-master\v1go\obj\Debug\v1go.UpdateCheck.resources
+C:\Users\xxint\Desktop\AIMWARE-master\v1go\obj\Debug\v1go.Properties.Resources.resources
+C:\Users\xxint\Desktop\AIMWARE-master\v1go\obj\Debug\v1go.PleaseWait2.resources
+C:\Users\xxint\Desktop\AIMWARE-master\v1go\obj\Debug\v1go.csproj.GenerateResource.cache
+C:\Users\xxint\Desktop\AIMWARE-master\v1go\obj\Debug\v1go.csproj.CoreCompileInputs.cache
+C:\Users\xxint\Desktop\AIMWARE-master\v1go\obj\Debug\v1go.exe
+C:\Users\xxint\Desktop\AIMWARE-master\v1go\obj\Debug\v1go.pdb
+C:\Users\xxint\Desktop\AIMWARE-master\v1go\obj\Debug\v1go.csprojAssemblyReference.cache
